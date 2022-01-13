@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/Wad098/project.github.io/e
 
 [Onq page](https://onq.queensu.ca/d2l/home/642417) 
 ![This is an image](https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/233333.jpg)
+<img src="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/233333.jpg">
 
 ### Markdown
 
