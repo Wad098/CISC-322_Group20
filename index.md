@@ -3,8 +3,6 @@
 You can use the [editor on GitHub](https://github.com/Wad098/project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 [Onq page](https://onq.queensu.ca/d2l/home/642417) 
-![This is an image](https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/233333.jpg)
-<img src="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/233333.jpg">
 ![This is an image](233333.jpg)
 edition
 
