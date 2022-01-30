@@ -1,4 +1,4 @@
-## 2022 Winter CISC-322 Group 20
+## Zephyrus
 <center>##Assignment</center>
 You can use the [editor on GitHub](https://github.com/Wad098/project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
