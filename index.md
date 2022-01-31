@@ -1,6 +1,6 @@
 <!-- ## 2022 Winter CISC-322 Group 20 -->
 ## Zephyrus
-Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. In this semaster, we will be studying the architecture of Apollo v7. Apollo project is an open source driverless operating platform created by Baidu.  
+Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. In this semaster, we will be studying the architecture of Apollo v7. Apollo project is an open source driverless operating platform created by Baidu. Autonomous driving is a concept which vehicles or transport system are self-driven without the intervention from human drivers.
 <!-- [Onq page](https://onq.queensu.ca/d2l/home/642417) <br> -->
 <!-- <img src="233333.jpg" width = "300" height = "300" alt="" align=center /> -->
 ## Assignments Links
