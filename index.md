@@ -1,6 +1,6 @@
 <!-- ## 2022 Winter CISC-322 Group 20 -->
 ## Zephyrus
-Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. This semaster, we will be studying the architecture of Apollo v7 :earth_asia:. Apollo project is an open source driverless operating platform created by Baidu. Autonomous driving is a concept which vehicles or transport system are self-driven without the intervention from human drivers. Transportation becomes an inseparable component of our daily life. <br>
+Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. This semaster, we will be studying the architecture of Apollo v7:earth_asia:. Apollo project is an open source driverless operating platform created by Baidu. Autonomous driving is a concept which vehicles or transport system are self-driven without the intervention from human drivers. Transportation becomes an inseparable component of our daily life. <br>
 Commuters take bus and subway to their workplace :office: in  the morning. In the late night, the last bus drives fatigued people back home :house:.<br>
 Nowadays, the rapid :boom: development of Internet of things revitalize traditional things in a brand new way. The introduction of the anotomous driving reinvigorate energy to the traditional transporation.
 <!-- [Onq page](https://onq.queensu.ca/d2l/home/642417) <br> -->
