@@ -7,12 +7,16 @@ Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. In this s
 <p align="center">
 <table align="center" style="width:100%">
 <tr>
-<td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC322_Project.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment1</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment2</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC322_Project.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment1 Report</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 <tr>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment3</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment4</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment2 Report</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment2 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+</tr>
+ <tr>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment3 Report</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment3 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 </table>
 </p>
