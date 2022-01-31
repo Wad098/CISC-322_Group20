@@ -10,15 +10,15 @@ Nowadays, the rapid :boom: development of Internet of things revitalize traditio
 <table align="center" style="width:100%">
 <tr>
 <td align="center"><a href=""><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment1 Report</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 <tr>
 <td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment2 Report</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment2 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment2 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
  <tr>
 <td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment3 Report</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/null.png" width="80px;" alt=""/><br /><b>Assignment3 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://baidu.com/"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment3 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 </table>
 </p>
@@ -26,11 +26,11 @@ Nowadays, the rapid :boom: development of Internet of things revitalize traditio
 ## Team Members
 <table>
     <tr>
-      <td align="center"><a href="https://github.com/BlairLi"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Yucan li </b></sub></a><sub><br /><a href = "mailto: 18yl259@queesu.ca">📧</a></sub></td>
+      <td align="center"><a href="https://github.com/BlairLi"><img src="img/yucan.jpg" width="100px;" alt=""/><br /><sub><b>Yucan li </b></sub></a><sub><br /><a href = "mailto: 18yl259@queesu.ca">📧</a></sub></td>
       <td align="center"><a href="https://github.com/Wad098"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Yiming Zheng </b></sub></a><sub><br /><a href = "mailto: 19yz38@queensu.ca">📧</a></sub></td>
-      <td align="center"><a href="https://github.com/hrzzdhyz"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Yuzhe He </b></sub></a><sub><br /><a href = "mailto: abc@example.com">📧</a></sub></td>
+      <td align="center"><a href="https://github.com/hrzzdhyz"><img src="img/yuzhe.jpg" width="100px;" alt=""/><br /><sub><b>Yuzhe He </b></sub></a><sub><br /><a href = "mailto: abc@example.com">📧</a></sub></td>
       <td align="center"><a href="https://github.com/BrightAurora138"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Wenran Hou </b></sub></a><sub><br /><a href = "mailto: 18wh10@queensu.ca">📧</a></sub></td>
-      <td align="center"><a href="https://github.com/pawwwn"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Xuchuan Mu </b></sub></a><sub><br /><a href = "mailto: 18xm24@queensu.ca">📧</a></sub></td>
+      <td align="center"><a href="https://github.com/pawwwn"><img src="img/charlie.jpg" width="100px;" alt=""/><br /><sub><b>Xuchuan Mu </b></sub></a><sub><br /><a href = "mailto: 18xm24@queensu.ca">📧</a></sub></td>
       <td align="center"><a href="https://github.com/19ml13"><img src="img/null.png" width="100px;" alt=""/><br /><sub><b>Mukun Liu </b></sub></a><sub><br /><a href = "mailto: 19ml13@queensu.ca">📧</a></sub></td>
     </tr>
  </table>
