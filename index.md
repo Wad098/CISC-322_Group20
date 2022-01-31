@@ -30,10 +30,10 @@ Welcome to Team Zephyrus, We are the group 20 in CISC-322 2022 winter. In this s
 
 
 ## Useful Links
-<a href="https://apolo.auto">https://apolo.auto</a>
-<a href="https://en.wikipedia.org/wiki/Self-driving_car">https://en.wikipedia.org/wiki/Self-driving_car</a>
-<a href="https://autonews.gasgoo.com/m/70019455.html">https://autonews.gasgoo.com/m/70019455.html</a>
-<a href="https://github.com/ApolloAuto/apollo">https://github.com/ApolloAuto/apollo</a>
+<a href="https://apolo.auto">https://apolo.auto</a></td>
+<a href="https://en.wikipedia.org/wiki/Self-driving_car">https://en.wikipedia.org/wiki/Self-driving_car</a></td>
+<a href="https://autonews.gasgoo.com/m/70019455.html">https://autonews.gasgoo.com/m/70019455.html</a></td>
+<a href="https://github.com/ApolloAuto/apollo">https://github.com/ApolloAuto/apollo</a></td>
 
 
 
