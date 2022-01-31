@@ -45,4 +45,4 @@ Reference<br>
 
 ## Changelog
 
-<a align="center">Formal verision of the website released-1/30/2022 21:01</a>
+<center>Formal verision of the website released-1/30/2022 21:01</center>
