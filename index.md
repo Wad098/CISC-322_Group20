@@ -45,8 +45,6 @@ Source code can be found <a href="https://github.com/ApolloAuto/apollo">here</a>
 The wiki page of Apollo <a href="https://en.wikipedia.org/wiki/Self-driving_car">wiki</a><br>
 Journal of the release of v 7.0<a href="https://autonews.gasgoo.com/m/70019455.html">https://autonews.gasgoo.com/m/70019455.html</a><br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cae.22492?saml_referrer">Application of Baidu Apollo open platform in a courseof control simulation experiments</a><br>
-1
-
 
 ## Changelog
 
