@@ -48,5 +48,5 @@ Journal of the release of v 7.0<a href="https://autonews.gasgoo.com/m/70019455.h
 
 ## Changelog
 
-<center>Formal verision of the website released-1/30/2022 21:01</center>
+<center>Formal verision of the website released-1/30/2022 21:01</center> <br>
 <center>Update Assignment1 Presentation and Report-2/20/2022 19:59</center>
