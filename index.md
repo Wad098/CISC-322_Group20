@@ -10,7 +10,7 @@ Nowadays, the rapid :boom: development of Internet of things revitalize traditio
 <table align="center" style="width:100%">
 <tr>
 <td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC_322_G20_assn1_report.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment1 Report</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC_322_G20_assn1_presentation.pptx"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://docs.google.com/presentation/d/1naN8NHVjK2IoEFeZ1SPQnNTpVA2capxNpQVLRF3X3qU/edit?usp=sharing"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 <tr>
 <td align="center"><a href=""><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment2 Report</b></a><br /><a href="" title="Code">💻</a> </td>
