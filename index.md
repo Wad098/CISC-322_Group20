@@ -13,8 +13,8 @@ Nowadays, the rapid :boom: development of Internet of things revitalize traditio
 <td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC_322_G20_assn1_presentation.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment1 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
 <tr>
-<td align="center"><a href=""><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment2 Report</b></a><br /><a href="" title="Code">💻</a> </td>
-<td align="center"><a href=""><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment2 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC_322_G20_assn2_report.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment2 Report</b></a><br /><a href="" title="Code">💻</a> </td>
+<td align="center"><a href="https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/doc/CISC_322_G20_assn2_presentation.pdf"><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo2.png" width="80px;" alt=""/><br /><b>Assignment2 Slide</b></a><br /><a href="" title="Code">💻</a> </td>
 </tr>
  <tr>
 <td align="center"><a href=""><img src="https://raw.githubusercontent.com/Wad098/CISC-322_Group20/gh-pages/img/apollo.jpg" width="80px;" alt=""/><br /><b>Assignment3 Report</b></a><br /><a href="" title="Code">💻</a> </td>
